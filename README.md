@@ -6,10 +6,10 @@ Tests
 ```
 mvn clean test
 ```
-Allure report
+Jacoco report
 
 ```
-mvn allure:serve
+mvn jacoco:serve
 ```
 
 ## Dependencies
